@@ -235,7 +235,7 @@ padding: 1rem;
   padding: 1rem;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 400px) {
   article{
     display: grid;
     grid-template-columns: repeat(10, 1fr);
@@ -273,7 +273,7 @@ padding: 1rem;
   }
 }
 
-@media (min-width: 850px){
+@media (min-width: 4000px){
   nav {
     max-width: 1200px;
     margin: 0 auto;
