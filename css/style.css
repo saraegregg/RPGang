@@ -273,7 +273,7 @@ padding: 1rem;
   }
 }
 
-@media (min-width: 4000px){
+@media (min-width: 400px){
   nav {
     max-width: 1200px;
     margin: 0 auto;
