@@ -46,7 +46,7 @@ width: 100%;
 .pink_background {
 background-color: var(--pink);
 }
-.green_background {
+.green_bg {
 background-color: var(--drkgreen);
 }
 .gradient{
@@ -82,16 +82,16 @@ font-family: var(--mono);
 }
 
 /* contact section*/
-#contact {
+#contacts {
 width: 400px;
 padding: 3rem 0;
 text-align: center;
 margin: 0 auto;
 }
-#contact h2 {
+#contacts h2 {
 font-family: var(--mono);
 }
-#contact a {
+#contacts a {
 color: var(--blue);
 font-weight: bolder;
 font-family: var(--mono);
@@ -197,7 +197,7 @@ padding:6px;
 border-radius: 10px;
 }
 #bios h4 {
-font-size: 1rem;
+/* font-size: 1rem; */
 font-family: var(--mono);
 margin: 0;
 }
@@ -206,7 +206,7 @@ background-color: var(--black);
 padding: 1rem;
 border-radius: 10px;
 color: var(--white);
-font-size: 1rem;
+/* font-size: 1rem; */
 line-height: 1.5; /*like spacing*/
 }
 #bios ul {
@@ -217,7 +217,7 @@ display: flex;
 flex-flow: row wrap;
 justify-content: flex-start;
 gap: 2rem;
-font-size: 1rem;  
+/* font-size: 1rem;   */
 }
 #bios img {
 margin: 2rem 0 4rem 0;
